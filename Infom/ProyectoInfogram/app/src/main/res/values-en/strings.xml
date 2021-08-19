@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infom</string>
+    <string name="nombre_de_usuario">Username</string>
+    <string name="contrasena">Password</string>
+    <string name="button_text">LOGIN</string>
+    <string name="no_tienes_cuenta">NO TIENES CUENTA?,</string>
+    <string name="crea_una_aqui">crea una aqui</string>
+</resources>
